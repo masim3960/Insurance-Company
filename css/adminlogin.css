@@ -1,0 +1,26 @@
+table tr td{
+	border: 3px solid black;
+	padding: 2%;
+	border-radius: 10px;
+}
+
+table{
+	border-spacing: 100px;
+	width: 90%;
+}
+
+.image{
+	width: 30px;
+	height: 45px;
+	margin: 0px 15px 0px 15px;
+}
+
+table tr td a{
+	font-size: 30px;
+	border: 20px;
+	margin-left: 40px;
+    margin-bottom: 10px;
+}
+
+
+

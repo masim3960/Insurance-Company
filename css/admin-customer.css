@@ -1,0 +1,34 @@
+table{
+	width:2000px ;
+    border: 1px solid black;
+    margin-top: 50px;
+    border-collapse: collapse;
+}
+
+table tbody{
+    border: 1px solid black;
+}
+
+table, th, td{
+    border: 1px solid;
+    padding: 3px;
+}
+
+th, td{
+    text-align: center;
+}
+
+#inp{
+    background: none;
+    border: none;
+}
+
+#inp:hover{
+    text-decoration: underline;
+    cursor:auto;
+}
+
+#val{
+    display: none;
+    visibility: hidden;
+}
